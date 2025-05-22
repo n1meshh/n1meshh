@@ -14,14 +14,7 @@
 
 I'm **passionate about crafting digital experiences** and exploring the endless possibilities of web development. Currently on an exciting journey to master the fundamentals and build amazing projects!
 
-```javascript
-const nimesh = {
-    currentFocus: "Web Development",
-    learningPath: ["HTML", "CSS", "JavaScript", "DOM Manipulation"],
-    nextGoals: ["React", "Responsive Design", "Open Source"],
-    philosophy: "Learning by doing is the best way to grow! 🌱"
-};
-```
+
 
 ---
 

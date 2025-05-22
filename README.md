@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Front-End+Developer+in+Training;Passionate+about+Web+Development;Building+Projects+%26+Learning+Daily;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+about+Web+Development;Building+Projects+%26+Learning+Daily;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=n1meshh&label=Profile%20views&color=36BCF7&style=for-the-badge)
   
@@ -12,9 +12,16 @@
 
 ## 🚀 About Me
 
-I'm a **passionate front-end developer in training** who loves crafting digital experiences and exploring the endless possibilities of web development. Currently on an exciting journey to master the fundamentals and build amazing projects!
+I'm **passionate about crafting digital experiences** and exploring the endless possibilities of web development. Currently on an exciting journey to master the fundamentals and build amazing projects!
 
-
+```javascript
+const nimesh = {
+    currentFocus: "Web Development",
+    learningPath: ["HTML", "CSS", "JavaScript", "DOM Manipulation"],
+    nextGoals: ["React", "Responsive Design", "Open Source"],
+    philosophy: "Learning by doing is the best way to grow! 🌱"
+};
+```
 
 ---
 

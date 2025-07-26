@@ -93,7 +93,7 @@ I'm **passionate about crafting digital experiences** and exploring the endless 
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=n1meshh)](https://git.io/streak-stats)
 
 </div>
 
